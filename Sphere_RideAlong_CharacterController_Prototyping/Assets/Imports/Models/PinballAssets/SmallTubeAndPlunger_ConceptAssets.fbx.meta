@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 528513c647030cf43ac3bdce200bea54
+timeCreated: 1537914443
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: PlungerCradle
+    100002: PlungerCradle_Beveled
+    100004: PlungerPad_DoubleBevel
+    100006: PlungerPad_Flat
+    100008: PlungerPad_FlatBevel
+    100010: pPipe4
+    100012: ScalerBall
+    100014: //RootNode
+    100016: Tube100
+    100018: Tube300
+    100020: Tube50
+    100022: Tube_Open1Fifth
+    100024: Tube_Open2Fifths
+    100026: Tube_Open3Fifths
+    100028: Tube_Open4Fifths
+    100030: Tube_Open5Fifths
+    400000: PlungerCradle
+    400002: PlungerCradle_Beveled
+    400004: PlungerPad_DoubleBevel
+    400006: PlungerPad_Flat
+    400008: PlungerPad_FlatBevel
+    400010: pPipe4
+    400012: ScalerBall
+    400014: //RootNode
+    400016: Tube100
+    400018: Tube300
+    400020: Tube50
+    400022: Tube_Open1Fifth
+    400024: Tube_Open2Fifths
+    400026: Tube_Open3Fifths
+    400028: Tube_Open4Fifths
+    400030: Tube_Open5Fifths
+    2300000: PlungerCradle
+    2300002: PlungerCradle_Beveled
+    2300004: PlungerPad_DoubleBevel
+    2300006: PlungerPad_Flat
+    2300008: PlungerPad_FlatBevel
+    2300010: pPipe4
+    2300012: ScalerBall
+    2300014: Tube100
+    2300016: Tube300
+    2300018: Tube50
+    2300020: Tube_Open1Fifth
+    2300022: Tube_Open2Fifths
+    2300024: Tube_Open3Fifths
+    2300026: Tube_Open4Fifths
+    2300028: Tube_Open5Fifths
+    3300000: PlungerCradle
+    3300002: PlungerCradle_Beveled
+    3300004: PlungerPad_DoubleBevel
+    3300006: PlungerPad_Flat
+    3300008: PlungerPad_FlatBevel
+    3300010: pPipe4
+    3300012: ScalerBall
+    3300014: Tube100
+    3300016: Tube300
+    3300018: Tube50
+    3300020: Tube_Open1Fifth
+    3300022: Tube_Open2Fifths
+    3300024: Tube_Open3Fifths
+    3300026: Tube_Open4Fifths
+    3300028: Tube_Open5Fifths
+    4300000: ScalerBall
+    4300002: Tube100
+    4300004: PlungerCradle
+    4300006: pPipe4
+    4300008: PlungerCradle_Beveled
+    4300010: Tube_Open5Fifths
+    4300012: Tube_Open1Fifth
+    4300014: Tube_Open2Fifths
+    4300016: Tube_Open3Fifths
+    4300018: Tube_Open4Fifths
+    4300020: PlungerPad_Flat
+    4300022: Tube300
+    4300024: Tube50
+    4300026: PlungerPad_DoubleBevel
+    4300028: PlungerPad_FlatBevel
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
