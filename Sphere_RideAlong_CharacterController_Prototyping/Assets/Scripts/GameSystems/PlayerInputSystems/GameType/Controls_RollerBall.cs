@@ -16,6 +16,7 @@
 
 using UnityEngine;
 using System.Collections;
+using MultiDeviceInputSystem;
 
 public class Controls_RollerBall : CustomController_InputValuesAccess 
 {

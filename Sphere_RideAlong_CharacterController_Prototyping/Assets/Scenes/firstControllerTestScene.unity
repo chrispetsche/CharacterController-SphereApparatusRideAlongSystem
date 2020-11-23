@@ -565,5 +565,21 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: c12548e5dc6296d46852bf65eed108eb, type: 2}
+    - target: {fileID: 4407503435108402913, guid: c707f7ef850e4a94fb8d32881e4da125,
+        type: 3}
+      propertyPath: isPlayerDriven
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4407503454476830073, guid: c707f7ef850e4a94fb8d32881e4da125,
+        type: 3}
+      propertyPath: CurrentVRCamera
+      value: 
+      objectReference: {fileID: 1529624134}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c707f7ef850e4a94fb8d32881e4da125, type: 3}
+--- !u!4 &1529624134 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4377388258259606352, guid: c707f7ef850e4a94fb8d32881e4da125,
+    type: 3}
+  m_PrefabInstance: {fileID: 1446012146}
+  m_PrefabAsset: {fileID: 0}
